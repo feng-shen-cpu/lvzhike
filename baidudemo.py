@@ -1,4 +1,4 @@
-#coding:utf-8
+#coding:utf-8（测试）
 import requests
 r=requests.get('https://www.baidu.com/')
 print(r.url)
